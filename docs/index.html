@@ -1,0 +1,174 @@
+<!doctype html>
+<!-- Web de Sintonía (GitHub Pages: https://h4ms1k.github.io/Sintonia/). Sirve de página
+     de descarga y de "web de soporte" para la LG Content Store. -->
+<html lang="es">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Sintonía</title>
+    <meta name="description" content="Reproductor IPTV rápido y elegante para tus propias listas Xtream Codes y M3U." />
+    <link rel="icon" href="logo.svg" type="image/svg+xml" />
+    <style>
+      :root {
+        --bg: #06080d;
+        --panel: rgba(255, 255, 255, 0.05);
+        --line: rgba(255, 255, 255, 0.1);
+        --text: #eef2ff;
+        --muted: #8d97ad;
+        --grad: linear-gradient(135deg, #4f7bff, #8b5cff 55%, #ff5fa2);
+      }
+      * {
+        box-sizing: border-box;
+      }
+      body {
+        margin: 0;
+        background:
+          radial-gradient(60rem 40rem at 85% -10%, rgba(91, 140, 255, 0.18), transparent 60%),
+          var(--bg);
+        color: var(--text);
+        font: 17px/1.6 system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif;
+      }
+      main {
+        max-width: 760px;
+        margin: 0 auto;
+        padding: 56px 16px 64px;
+      }
+      header {
+        display: flex;
+        align-items: center;
+        gap: 18px;
+      }
+      header img {
+        width: 72px;
+        height: 72px;
+        border-radius: 18px;
+        box-shadow: 0 12px 36px rgba(139, 92, 255, 0.45);
+      }
+      h1 {
+        margin: 0;
+        font-size: 40px;
+        letter-spacing: -0.03em;
+      }
+      .tagline {
+        margin: 2px 0 0;
+        color: var(--muted);
+      }
+      .cta {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 14px;
+        margin: 36px 0 12px;
+      }
+      .btn {
+        display: inline-flex;
+        align-items: center;
+        gap: 10px;
+        padding: 14px 26px;
+        border-radius: 999px;
+        background: var(--grad);
+        color: #fff;
+        font-weight: 650;
+        text-decoration: none;
+      }
+      .code {
+        display: inline-flex;
+        align-items: center;
+        gap: 10px;
+        padding: 14px 22px;
+        border-radius: 999px;
+        border: 1px solid var(--line);
+        background: var(--panel);
+      }
+      .code b {
+        font-size: 20px;
+        letter-spacing: 0.08em;
+        font-variant-numeric: tabular-nums;
+      }
+      .small {
+        color: var(--muted);
+        font-size: 14px;
+      }
+      section {
+        margin-top: 40px;
+        padding: 24px 26px;
+        border-radius: 20px;
+        background: var(--panel);
+        border: 1px solid var(--line);
+      }
+      h2 {
+        margin: 0 0 10px;
+        font-size: 21px;
+      }
+      ol,
+      ul {
+        margin: 0;
+        padding-left: 22px;
+      }
+      li + li {
+        margin-top: 6px;
+      }
+      a {
+        color: #9db6ff;
+      }
+      footer {
+        margin-top: 40px;
+        color: var(--muted);
+        font-size: 14px;
+      }
+    </style>
+  </head>
+  <body>
+    <main>
+      <header>
+        <img src="logo.svg" alt="" />
+        <div>
+          <h1>Sintonía</h1>
+          <p class="tagline">Tus listas IPTV, bonitas y sin cortes.</p>
+        </div>
+      </header>
+
+      <div class="cta">
+        <a class="btn" href="https://github.com/h4ms1k/Sintonia/releases/latest/download/Sintonia.apk">Descargar para Android</a>
+        <span class="code">Downloader <b>2021239</b></span>
+      </div>
+      <p class="small">Android TV, Fire TV, Nvidia Shield y móviles Android 7 o superior. En LG, desde la LG Content Store.</p>
+
+      <section>
+        <h2>Qué hace</h2>
+        <ul>
+          <li>Reproduce tus cuentas Xtream Codes y listas M3U.</li>
+          <li>TV en directo con minirreproductor, guía de programación y favoritos.</li>
+          <li>Películas y series con portadas, filtros por año, nota e idioma, y «seguir viendo».</li>
+          <li>Añade la cuenta desde el móvil con un código QR, sin teclear con el mando.</li>
+          <li>Sin publicidad y sin recogida de datos: todo se guarda en tu dispositivo.</li>
+        </ul>
+      </section>
+
+      <section>
+        <h2>Instalar en Fire TV</h2>
+        <ol>
+          <li>Instala <b>Downloader</b> desde la tienda de Amazon.</li>
+          <li>Ajustes → Mi Fire TV → Opciones para desarrolladores → <b>Instalar apps desconocidas</b> → activa Downloader.
+            Si no ves las opciones para desarrolladores: Mi Fire TV → Acerca de → pulsa 7 veces el nombre del dispositivo.</li>
+          <li>Abre Downloader, escribe <b>2021239</b> y pulsa <b>Instalar</b>.</li>
+        </ol>
+      </section>
+
+      <section>
+        <h2>Importante</h2>
+        <p>
+          Sintonía es solo un reproductor: no incluye, vende ni proporciona canales ni contenido. Necesitas tu propia lista de un
+          proveedor, con contenido que tengas derecho a ver.
+        </p>
+      </section>
+
+      <footer>
+        <p>
+          Soporte: <a href="mailto:h4ms1k88@gmail.com">h4ms1k88@gmail.com</a> ·
+          <a href="privacy.html">Política de privacidad</a> ·
+          <a href="https://github.com/h4ms1k/Sintonia/releases">Versiones</a>
+        </p>
+      </footer>
+    </main>
+  </body>
+</html>
