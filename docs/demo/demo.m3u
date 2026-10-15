@@ -1,0 +1,205 @@
+#EXTM3U url-tvg="https://h4ms1k.github.io/Sintonia/demo/epg.xml"
+#EXTINF:-1 tvg-id="c1" tvg-chno="1" tvg-logo="https://h4ms1k.github.io/Sintonia/demo/logos/c1.png" group-title="Generalistas",Aurora TV
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+#EXTINF:-1 tvg-id="c2" tvg-chno="2" tvg-logo="https://h4ms1k.github.io/Sintonia/demo/logos/c2.png" group-title="Generalistas",Mirador
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+#EXTINF:-1 tvg-id="c3" tvg-chno="3" tvg-logo="https://h4ms1k.github.io/Sintonia/demo/logos/c3.png" group-title="Generalistas",Brisa Uno
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+#EXTINF:-1 tvg-id="c4" tvg-chno="4" tvg-logo="https://h4ms1k.github.io/Sintonia/demo/logos/c4.png" group-title="Generalistas",Faro TV
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+#EXTINF:-1 tvg-id="c5" tvg-chno="5" tvg-logo="https://h4ms1k.github.io/Sintonia/demo/logos/c5.png" group-title="Noticias",Mirador Noticias
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+#EXTINF:-1 tvg-id="c6" tvg-chno="6" tvg-logo="https://h4ms1k.github.io/Sintonia/demo/logos/c6.png" group-title="Deportes",Pulso Deportes
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+#EXTINF:-1 tvg-id="c7" tvg-chno="7" tvg-logo="https://h4ms1k.github.io/Sintonia/demo/logos/c7.png" group-title="Deportes",Pulso Motor
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+#EXTINF:-1 tvg-id="c8" tvg-chno="8" tvg-logo="https://h4ms1k.github.io/Sintonia/demo/logos/c8.png" group-title="Cine",Nébula Cine
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+#EXTINF:-1 tvg-id="c9" tvg-chno="9" tvg-logo="https://h4ms1k.github.io/Sintonia/demo/logos/c9.png" group-title="Cine",Nébula Clásicos
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+#EXTINF:-1 tvg-id="c10" tvg-chno="10" tvg-logo="https://h4ms1k.github.io/Sintonia/demo/logos/c10.png" group-title="Infantil",Pompas Kids
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+#EXTINF:-1 tvg-id="c11" tvg-chno="11" tvg-logo="https://h4ms1k.github.io/Sintonia/demo/logos/c11.png" group-title="Música",Ritmo TV
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+#EXTINF:-1 tvg-id="c12" tvg-chno="12" tvg-logo="https://h4ms1k.github.io/Sintonia/demo/logos/c12.png" group-title="Documentales",Origen Docs
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+#EXTINF:-1 tvg-id="c13" tvg-chno="13" tvg-logo="https://h4ms1k.github.io/Sintonia/demo/logos/c13.png" group-title="Documentales",Cumbre Viajes
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+#EXTINF:-1 tvg-id="c14" tvg-chno="14" tvg-logo="https://h4ms1k.github.io/Sintonia/demo/logos/c14.png" group-title="Documentales",Delta Cocina
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+#EXTINF:-1 tvg-logo="https://h4ms1k.github.io/Sintonia/demo/posters/m1.png" group-title="Estrenos",Horizonte rojo (2026)
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8#/movie/m1
+#EXTINF:-1 tvg-logo="https://h4ms1k.github.io/Sintonia/demo/posters/m2.png" group-title="Estrenos",Luces del puerto (2025)
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8#/movie/m2
+#EXTINF:-1 tvg-logo="https://h4ms1k.github.io/Sintonia/demo/posters/m3.png" group-title="Estrenos",Trece segundos (2025)
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8#/movie/m3
+#EXTINF:-1 tvg-logo="https://h4ms1k.github.io/Sintonia/demo/posters/m4.png" group-title="Estrenos",Polvo de estrellas (2024)
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8#/movie/m4
+#EXTINF:-1 tvg-logo="https://h4ms1k.github.io/Sintonia/demo/posters/m5.png" group-title="Acción",Carrera final (2025)
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8#/movie/m5
+#EXTINF:-1 tvg-logo="https://h4ms1k.github.io/Sintonia/demo/posters/m6.png" group-title="Acción",Frontera sur (2021)
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8#/movie/m6
+#EXTINF:-1 tvg-logo="https://h4ms1k.github.io/Sintonia/demo/posters/m7.png" group-title="Acción",Sombras en la niebla (2024)
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8#/movie/m7
+#EXTINF:-1 tvg-logo="https://h4ms1k.github.io/Sintonia/demo/posters/m8.png" group-title="Acción",Código ámbar (2023)
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8#/movie/m8
+#EXTINF:-1 tvg-logo="https://h4ms1k.github.io/Sintonia/demo/posters/m9.png" group-title="Comedia",Verano en Valdemar (2024)
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8#/movie/m9
+#EXTINF:-1 tvg-logo="https://h4ms1k.github.io/Sintonia/demo/posters/m10.png" group-title="Comedia",La receta perdida (2022)
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8#/movie/m10
+#EXTINF:-1 tvg-logo="https://h4ms1k.github.io/Sintonia/demo/posters/m11.png" group-title="Comedia",Diez kilómetros (2022)
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8#/movie/m11
+#EXTINF:-1 tvg-logo="https://h4ms1k.github.io/Sintonia/demo/posters/m12.png" group-title="Comedia",Boda en la playa (2023)
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8#/movie/m12
+#EXTINF:-1 tvg-logo="https://h4ms1k.github.io/Sintonia/demo/posters/m13.png" group-title="Drama",El último faro (2024)
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8#/movie/m13
+#EXTINF:-1 tvg-logo="https://h4ms1k.github.io/Sintonia/demo/posters/m14.png" group-title="Drama",Marea alta (2023)
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8#/movie/m14
+#EXTINF:-1 tvg-logo="https://h4ms1k.github.io/Sintonia/demo/posters/m15.png" group-title="Drama",Ciudad de cristal (2025)
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8#/movie/m15
+#EXTINF:-1 tvg-logo="https://h4ms1k.github.io/Sintonia/demo/posters/m16.png" group-title="Drama",Noche en Lisboa (2021)
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8#/movie/m16
+#EXTINF:-1 tvg-logo="https://h4ms1k.github.io/Sintonia/demo/posters/m17.png" group-title="Drama",El silencio del valle (2019)
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8#/movie/m17
+#EXTINF:-1 tvg-logo="https://h4ms1k.github.io/Sintonia/demo/posters/m18.png" group-title="Drama",El jardín de invierno (2021)
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8#/movie/m18
+#EXTINF:-1 tvg-logo="https://h4ms1k.github.io/Sintonia/demo/posters/m19.png" group-title="Familiar",Los guardianes del bosque (2022)
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8#/movie/m19
+#EXTINF:-1 tvg-logo="https://h4ms1k.github.io/Sintonia/demo/posters/m20.png" group-title="Familiar",La isla de los cometas (2023)
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8#/movie/m20
+#EXTINF:-1 tvg-logo="https://h4ms1k.github.io/Sintonia/demo/posters/m21.png" group-title="Familiar",El mapa secreto (2019)
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8#/movie/m21
+#EXTINF:-1 tvg-logo="https://h4ms1k.github.io/Sintonia/demo/posters/m22.png" group-title="Familiar",Viaje a Tamarit (2023)
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8#/movie/m22
+#EXTINF:-1 tvg-logo="https://h4ms1k.github.io/Sintonia/demo/posters/m23.png" group-title="Estrenos",La casa del acantilado (2026)
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8#/movie/m23
+#EXTINF:-1 tvg-logo="https://h4ms1k.github.io/Sintonia/demo/posters/m24.png" group-title="Acción",Punto de no retorno (2020)
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8#/movie/m24
+#EXTINF:-1 tvg-logo="https://h4ms1k.github.io/Sintonia/demo/posters/s1.png" group-title="Series",Distrito Norte S01E01 - Episodio 1
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8#/series/s1-1-1
+#EXTINF:-1 tvg-logo="https://h4ms1k.github.io/Sintonia/demo/posters/s1.png" group-title="Series",Distrito Norte S01E02 - Episodio 2
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8#/series/s1-1-2
+#EXTINF:-1 tvg-logo="https://h4ms1k.github.io/Sintonia/demo/posters/s1.png" group-title="Series",Distrito Norte S01E03 - Episodio 3
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8#/series/s1-1-3
+#EXTINF:-1 tvg-logo="https://h4ms1k.github.io/Sintonia/demo/posters/s1.png" group-title="Series",Distrito Norte S01E04 - Episodio 4
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8#/series/s1-1-4
+#EXTINF:-1 tvg-logo="https://h4ms1k.github.io/Sintonia/demo/posters/s1.png" group-title="Series",Distrito Norte S02E01 - Episodio 1
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8#/series/s1-2-1
+#EXTINF:-1 tvg-logo="https://h4ms1k.github.io/Sintonia/demo/posters/s1.png" group-title="Series",Distrito Norte S02E02 - Episodio 2
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8#/series/s1-2-2
+#EXTINF:-1 tvg-logo="https://h4ms1k.github.io/Sintonia/demo/posters/s1.png" group-title="Series",Distrito Norte S02E03 - Episodio 3
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8#/series/s1-2-3
+#EXTINF:-1 tvg-logo="https://h4ms1k.github.io/Sintonia/demo/posters/s1.png" group-title="Series",Distrito Norte S02E04 - Episodio 4
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8#/series/s1-2-4
+#EXTINF:-1 tvg-logo="https://h4ms1k.github.io/Sintonia/demo/posters/s2.png" group-title="Series",Archivo 9 S01E01 - Episodio 1
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8#/series/s2-1-1
+#EXTINF:-1 tvg-logo="https://h4ms1k.github.io/Sintonia/demo/posters/s2.png" group-title="Series",Archivo 9 S01E02 - Episodio 2
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8#/series/s2-1-2
+#EXTINF:-1 tvg-logo="https://h4ms1k.github.io/Sintonia/demo/posters/s2.png" group-title="Series",Archivo 9 S01E03 - Episodio 3
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8#/series/s2-1-3
+#EXTINF:-1 tvg-logo="https://h4ms1k.github.io/Sintonia/demo/posters/s2.png" group-title="Series",Archivo 9 S01E04 - Episodio 4
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8#/series/s2-1-4
+#EXTINF:-1 tvg-logo="https://h4ms1k.github.io/Sintonia/demo/posters/s2.png" group-title="Series",Archivo 9 S02E01 - Episodio 1
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8#/series/s2-2-1
+#EXTINF:-1 tvg-logo="https://h4ms1k.github.io/Sintonia/demo/posters/s2.png" group-title="Series",Archivo 9 S02E02 - Episodio 2
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8#/series/s2-2-2
+#EXTINF:-1 tvg-logo="https://h4ms1k.github.io/Sintonia/demo/posters/s2.png" group-title="Series",Archivo 9 S02E03 - Episodio 3
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8#/series/s2-2-3
+#EXTINF:-1 tvg-logo="https://h4ms1k.github.io/Sintonia/demo/posters/s2.png" group-title="Series",Archivo 9 S02E04 - Episodio 4
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8#/series/s2-2-4
+#EXTINF:-1 tvg-logo="https://h4ms1k.github.io/Sintonia/demo/posters/s3.png" group-title="Series",Los Herrera S01E01 - Episodio 1
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8#/series/s3-1-1
+#EXTINF:-1 tvg-logo="https://h4ms1k.github.io/Sintonia/demo/posters/s3.png" group-title="Series",Los Herrera S01E02 - Episodio 2
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8#/series/s3-1-2
+#EXTINF:-1 tvg-logo="https://h4ms1k.github.io/Sintonia/demo/posters/s3.png" group-title="Series",Los Herrera S01E03 - Episodio 3
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8#/series/s3-1-3
+#EXTINF:-1 tvg-logo="https://h4ms1k.github.io/Sintonia/demo/posters/s3.png" group-title="Series",Los Herrera S01E04 - Episodio 4
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8#/series/s3-1-4
+#EXTINF:-1 tvg-logo="https://h4ms1k.github.io/Sintonia/demo/posters/s3.png" group-title="Series",Los Herrera S02E01 - Episodio 1
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8#/series/s3-2-1
+#EXTINF:-1 tvg-logo="https://h4ms1k.github.io/Sintonia/demo/posters/s3.png" group-title="Series",Los Herrera S02E02 - Episodio 2
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8#/series/s3-2-2
+#EXTINF:-1 tvg-logo="https://h4ms1k.github.io/Sintonia/demo/posters/s3.png" group-title="Series",Los Herrera S02E03 - Episodio 3
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8#/series/s3-2-3
+#EXTINF:-1 tvg-logo="https://h4ms1k.github.io/Sintonia/demo/posters/s3.png" group-title="Series",Los Herrera S02E04 - Episodio 4
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8#/series/s3-2-4
+#EXTINF:-1 tvg-logo="https://h4ms1k.github.io/Sintonia/demo/posters/s4.png" group-title="Series",Bajo cero S01E01 - Episodio 1
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8#/series/s4-1-1
+#EXTINF:-1 tvg-logo="https://h4ms1k.github.io/Sintonia/demo/posters/s4.png" group-title="Series",Bajo cero S01E02 - Episodio 2
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8#/series/s4-1-2
+#EXTINF:-1 tvg-logo="https://h4ms1k.github.io/Sintonia/demo/posters/s4.png" group-title="Series",Bajo cero S01E03 - Episodio 3
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8#/series/s4-1-3
+#EXTINF:-1 tvg-logo="https://h4ms1k.github.io/Sintonia/demo/posters/s4.png" group-title="Series",Bajo cero S01E04 - Episodio 4
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8#/series/s4-1-4
+#EXTINF:-1 tvg-logo="https://h4ms1k.github.io/Sintonia/demo/posters/s4.png" group-title="Series",Bajo cero S02E01 - Episodio 1
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8#/series/s4-2-1
+#EXTINF:-1 tvg-logo="https://h4ms1k.github.io/Sintonia/demo/posters/s4.png" group-title="Series",Bajo cero S02E02 - Episodio 2
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8#/series/s4-2-2
+#EXTINF:-1 tvg-logo="https://h4ms1k.github.io/Sintonia/demo/posters/s4.png" group-title="Series",Bajo cero S02E03 - Episodio 3
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8#/series/s4-2-3
+#EXTINF:-1 tvg-logo="https://h4ms1k.github.io/Sintonia/demo/posters/s4.png" group-title="Series",Bajo cero S02E04 - Episodio 4
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8#/series/s4-2-4
+#EXTINF:-1 tvg-logo="https://h4ms1k.github.io/Sintonia/demo/posters/s5.png" group-title="Series",Ciudad dormida S01E01 - Episodio 1
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8#/series/s5-1-1
+#EXTINF:-1 tvg-logo="https://h4ms1k.github.io/Sintonia/demo/posters/s5.png" group-title="Series",Ciudad dormida S01E02 - Episodio 2
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8#/series/s5-1-2
+#EXTINF:-1 tvg-logo="https://h4ms1k.github.io/Sintonia/demo/posters/s5.png" group-title="Series",Ciudad dormida S01E03 - Episodio 3
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8#/series/s5-1-3
+#EXTINF:-1 tvg-logo="https://h4ms1k.github.io/Sintonia/demo/posters/s5.png" group-title="Series",Ciudad dormida S01E04 - Episodio 4
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8#/series/s5-1-4
+#EXTINF:-1 tvg-logo="https://h4ms1k.github.io/Sintonia/demo/posters/s5.png" group-title="Series",Ciudad dormida S02E01 - Episodio 1
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8#/series/s5-2-1
+#EXTINF:-1 tvg-logo="https://h4ms1k.github.io/Sintonia/demo/posters/s5.png" group-title="Series",Ciudad dormida S02E02 - Episodio 2
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8#/series/s5-2-2
+#EXTINF:-1 tvg-logo="https://h4ms1k.github.io/Sintonia/demo/posters/s5.png" group-title="Series",Ciudad dormida S02E03 - Episodio 3
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8#/series/s5-2-3
+#EXTINF:-1 tvg-logo="https://h4ms1k.github.io/Sintonia/demo/posters/s5.png" group-title="Series",Ciudad dormida S02E04 - Episodio 4
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8#/series/s5-2-4
+#EXTINF:-1 tvg-logo="https://h4ms1k.github.io/Sintonia/demo/posters/s6.png" group-title="Series",Expedición Ártica S01E01 - Episodio 1
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8#/series/s6-1-1
+#EXTINF:-1 tvg-logo="https://h4ms1k.github.io/Sintonia/demo/posters/s6.png" group-title="Series",Expedición Ártica S01E02 - Episodio 2
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8#/series/s6-1-2
+#EXTINF:-1 tvg-logo="https://h4ms1k.github.io/Sintonia/demo/posters/s6.png" group-title="Series",Expedición Ártica S01E03 - Episodio 3
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8#/series/s6-1-3
+#EXTINF:-1 tvg-logo="https://h4ms1k.github.io/Sintonia/demo/posters/s6.png" group-title="Series",Expedición Ártica S01E04 - Episodio 4
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8#/series/s6-1-4
+#EXTINF:-1 tvg-logo="https://h4ms1k.github.io/Sintonia/demo/posters/s6.png" group-title="Series",Expedición Ártica S02E01 - Episodio 1
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8#/series/s6-2-1
+#EXTINF:-1 tvg-logo="https://h4ms1k.github.io/Sintonia/demo/posters/s6.png" group-title="Series",Expedición Ártica S02E02 - Episodio 2
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8#/series/s6-2-2
+#EXTINF:-1 tvg-logo="https://h4ms1k.github.io/Sintonia/demo/posters/s6.png" group-title="Series",Expedición Ártica S02E03 - Episodio 3
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8#/series/s6-2-3
+#EXTINF:-1 tvg-logo="https://h4ms1k.github.io/Sintonia/demo/posters/s6.png" group-title="Series",Expedición Ártica S02E04 - Episodio 4
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8#/series/s6-2-4
+#EXTINF:-1 tvg-logo="https://h4ms1k.github.io/Sintonia/demo/posters/s7.png" group-title="Series",La academia S01E01 - Episodio 1
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8#/series/s7-1-1
+#EXTINF:-1 tvg-logo="https://h4ms1k.github.io/Sintonia/demo/posters/s7.png" group-title="Series",La academia S01E02 - Episodio 2
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8#/series/s7-1-2
+#EXTINF:-1 tvg-logo="https://h4ms1k.github.io/Sintonia/demo/posters/s7.png" group-title="Series",La academia S01E03 - Episodio 3
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8#/series/s7-1-3
+#EXTINF:-1 tvg-logo="https://h4ms1k.github.io/Sintonia/demo/posters/s7.png" group-title="Series",La academia S01E04 - Episodio 4
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8#/series/s7-1-4
+#EXTINF:-1 tvg-logo="https://h4ms1k.github.io/Sintonia/demo/posters/s7.png" group-title="Series",La academia S02E01 - Episodio 1
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8#/series/s7-2-1
+#EXTINF:-1 tvg-logo="https://h4ms1k.github.io/Sintonia/demo/posters/s7.png" group-title="Series",La academia S02E02 - Episodio 2
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8#/series/s7-2-2
+#EXTINF:-1 tvg-logo="https://h4ms1k.github.io/Sintonia/demo/posters/s7.png" group-title="Series",La academia S02E03 - Episodio 3
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8#/series/s7-2-3
+#EXTINF:-1 tvg-logo="https://h4ms1k.github.io/Sintonia/demo/posters/s7.png" group-title="Series",La academia S02E04 - Episodio 4
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8#/series/s7-2-4
+#EXTINF:-1 tvg-logo="https://h4ms1k.github.io/Sintonia/demo/posters/s8.png" group-title="Series",Taller de sabores S01E01 - Episodio 1
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8#/series/s8-1-1
+#EXTINF:-1 tvg-logo="https://h4ms1k.github.io/Sintonia/demo/posters/s8.png" group-title="Series",Taller de sabores S01E02 - Episodio 2
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8#/series/s8-1-2
+#EXTINF:-1 tvg-logo="https://h4ms1k.github.io/Sintonia/demo/posters/s8.png" group-title="Series",Taller de sabores S01E03 - Episodio 3
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8#/series/s8-1-3
+#EXTINF:-1 tvg-logo="https://h4ms1k.github.io/Sintonia/demo/posters/s8.png" group-title="Series",Taller de sabores S01E04 - Episodio 4
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8#/series/s8-1-4
+#EXTINF:-1 tvg-logo="https://h4ms1k.github.io/Sintonia/demo/posters/s8.png" group-title="Series",Taller de sabores S02E01 - Episodio 1
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8#/series/s8-2-1
+#EXTINF:-1 tvg-logo="https://h4ms1k.github.io/Sintonia/demo/posters/s8.png" group-title="Series",Taller de sabores S02E02 - Episodio 2
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8#/series/s8-2-2
+#EXTINF:-1 tvg-logo="https://h4ms1k.github.io/Sintonia/demo/posters/s8.png" group-title="Series",Taller de sabores S02E03 - Episodio 3
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8#/series/s8-2-3
+#EXTINF:-1 tvg-logo="https://h4ms1k.github.io/Sintonia/demo/posters/s8.png" group-title="Series",Taller de sabores S02E04 - Episodio 4
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8#/series/s8-2-4
