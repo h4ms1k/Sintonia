@@ -1,14 +1,15 @@
 {
-  "versionName": "1.4.0",
-  "versionCode": 10400,
-  "apk": "https://github.com/h4ms1k/Sintonia/releases/download/v1.4.0/Sintonia-1.4.0.apk",
-  "sha256": "923ae1ddccf28ef7deada2e7b10ca15c7097fd7ab714dde1d3e17a95dd1b821d",
-  "size": 5561201,
-  "summary": "Avisos de Sintonía en la pantalla de inicio y Ajustes bien en el móvil.",
+  "versionName": "1.4.1",
+  "versionCode": 10401,
+  "apk": "https://github.com/h4ms1k/Sintonia/releases/download/v1.4.1/Sintonia-1.4.1.apk",
+  "sha256": "0e3e3245bdb6c8607eefe607b2a22b56007835484819384718954e2025e286e5",
+  "size": 5562281,
+  "summary": "Guía de programación mucho más rápida y actualizaciones que siguen solas en Android TV 11.",
   "notes": [
-    "Avisos en Inicio",
-    "Ajustes en el móvil"
+    "Guía de Sintonía",
+    "Actualizaciones en Android TV 11 (Shield y otros)",
+    "Guía del proveedor sin parones"
   ],
   "critical": false,
-  "published": "2026-10-20T13:40:49Z"
+  "published": "2026-10-20T17:30:03Z"
 }
