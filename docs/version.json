@@ -1,0 +1,17 @@
+{
+  "versionName": "1.2.0",
+  "versionCode": 10200,
+  "apk": "https://github.com/h4ms1k/Sintonia/releases/download/v1.2.0/Sintonia-1.2.0.apk",
+  "sha256": "a7270a5c4a9a647966fd57b9d65d582f0e55cfd46d1316b97eaebcc823effc66",
+  "size": 5541012,
+  "summary": "Películas y series con pantalla nueva, la tele a 24 Hz con las películas y sin cierres con las de mucha calidad.",
+  "notes": [
+    "Películas y series a pantalla completa, renovadas",
+    "Siguiente episodio automático",
+    "Películas sin tirones en Fire TV y Android TV",
+    "La app se cerraba con películas de mucha calidad",
+    "Subtítulos forzados"
+  ],
+  "critical": false,
+  "published": "2026-10-20T05:37:16Z"
+}
