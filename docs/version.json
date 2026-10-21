@@ -1,15 +1,13 @@
 {
-  "versionName": "1.4.1",
-  "versionCode": 10401,
-  "apk": "https://github.com/h4ms1k/Sintonia/releases/download/v1.4.1/Sintonia-1.4.1.apk",
-  "sha256": "0e3e3245bdb6c8607eefe607b2a22b56007835484819384718954e2025e286e5",
-  "size": 5562281,
-  "summary": "Guía de programación mucho más rápida y actualizaciones que siguen solas en Android TV 11.",
+  "versionName": "1.4.2",
+  "versionCode": 10402,
+  "apk": "https://github.com/h4ms1k/Sintonia/releases/download/v1.4.2/Sintonia-1.4.2.apk",
+  "sha256": "6efc826c50038f679ea7bf1a108119fed8749b279f6a1c46b4968c25e3775010",
+  "size": 5562457,
+  "summary": "El teclado en pantalla ya no salta solo al moverte con el mando por Ajustes.",
   "notes": [
-    "Guía de Sintonía",
-    "Actualizaciones en Android TV 11 (Shield y otros)",
-    "Guía del proveedor sin parones"
+    "Teclado en pantalla en Android TV"
   ],
   "critical": false,
-  "published": "2026-10-20T17:30:03Z"
+  "published": "2026-10-21T10:03:40Z"
 }
